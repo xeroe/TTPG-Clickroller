@@ -1,0 +1,10 @@
+{
+  "name": "clickroller",
+  "slug": "clickroller",
+  "version": "0.1",
+  "transpile": true,
+  "guid": {
+    "dev": "CB088D36DA414B78A8A7BAFE87926193",
+    "prd": "4FBA9B9522364ECE8C39063B83E772F3"
+  }
+}

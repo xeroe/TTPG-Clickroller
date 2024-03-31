@@ -1,0 +1,149 @@
+{
+	"Type": "Generic",
+	"GUID": "7BF2124C4DF68A5D983115AB29075625",
+	"Name": "Click Roller Strip",
+	"Metadata": "",
+	"CollisionType": "Regular",
+	"Friction": 0.7,
+	"Restitution": 0.29,
+	"Density": 1,
+	"SurfaceType": "Glass",
+	"Roughness": 0.8,
+	"Metallic": 0,
+	"PrimaryColor":
+	{
+		"R": 255,
+		"G": 255,
+		"B": 255
+	},
+	"SecondaryColor":
+	{
+		"R": 0,
+		"G": 0,
+		"B": 0
+	},
+	"Flippable": false,
+	"AutoStraighten": false,
+	"ShouldSnap": true,
+	"ScriptName": "main.js",
+	"Blueprint": "",
+	"Models": [
+		{
+			"Model": "clickroller.fbx",
+			"Offset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Scale":
+			{
+				"X": 0.024793385278546194,
+				"Y": 0.024793385278546194,
+				"Z": 0.024793385278546194
+			},
+			"Rotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"Texture": "roller_low_Dark iron.002_BaseColor.jpg",
+			"NormalMap": "roller_low_Dark iron.002_Normal.jpg",
+			"ExtraMap": "RGB-Alpharoller_low_Dark iron.002_MASK.png",
+			"ExtraMap2": "",
+			"IsTransparent": false,
+			"CastShadow": true,
+			"IsTwoSided": false,
+			"UseOverrides": false,
+			"Roughness": 1,
+			"Metallic": 1,
+			"PrimaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0
+			},
+			"SecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0
+			},
+			"SurfaceType": "Plastic"
+		}
+	],
+	"Collision": [],
+	"Lights": [],
+	"SnapPointsGlobal": false,
+	"SnapPoints": [
+		{
+			"X": -6.2199999999999998,
+			"Y": 0,
+			"Z": -0.001,
+			"Range": 0.77,
+			"SnapRotation": 0,
+			"RotationOffset": 0,
+			"Shape": 1,
+			"FlipValidity": 0
+		},
+		{
+			"X": -3.7000000000000002,
+			"Y": -0,
+			"Z": 0,
+			"Range": 0.77,
+			"SnapRotation": 0,
+			"RotationOffset": 0,
+			"Shape": 1,
+			"FlipValidity": 0
+		},
+		{
+			"X": -1.25,
+			"Y": 0,
+			"Z": 0,
+			"Range": 0.77,
+			"SnapRotation": 0,
+			"RotationOffset": 0,
+			"Shape": 1,
+			"FlipValidity": 0
+		},
+		{
+			"X": 1.25,
+			"Y": 0,
+			"Z": 0,
+			"Range": 0.77,
+			"SnapRotation": 0,
+			"RotationOffset": 0,
+			"Shape": 1,
+			"FlipValidity": 0
+		},
+		{
+			"X": 3.7999999999999998,
+			"Y": -0,
+			"Z": 0,
+			"Range": 0.77,
+			"SnapRotation": 0,
+			"RotationOffset": 0,
+			"Shape": 1,
+			"FlipValidity": 0
+		},
+		{
+			"X": 6.2000000000000002,
+			"Y": -0.001,
+			"Z": 0,
+			"Range": 0.77,
+			"SnapRotation": 0,
+			"RotationOffset": 0,
+			"Shape": 1,
+			"FlipValidity": 0
+		}
+	],
+	"ZoomViewDirection":
+	{
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"GroundAccessibility": "Nothing",
+	"Tags": []
+}
